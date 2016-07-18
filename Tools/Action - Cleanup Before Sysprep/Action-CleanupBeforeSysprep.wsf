@@ -1,5 +1,5 @@
 <job id="Action-CleanupBeforeSysprep">
-<script language="VBScript" src="..\..\Scripts\ZTIUtility.vbs"/>
+<script language="VBScript" src="%SCRIPTROOT%\ZTIUtility.vbs"/>
 <script language="VBScript"> 
 
 '//----------------------------------------------------------------------------
